@@ -4,3 +4,4 @@ Rock paper scissors is a hand game for two or more players. Participants say “
 1)Rock smashes scissors.
 2)Paper covers rock.
 3)Scissors cut paper.
+This game is made in python.
